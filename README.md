@@ -1,4 +1,4 @@
-# Reproduction de la Figure 4 : Injection de raccourcis pour un code Java plus rapide
+# Reproduction de la Figure 4 : Injecting Shortcuts for Faster Running Java Code
 
 Ce projet reproduit la Figure 4 de l'article [Injecting Shortcuts for Faster Running of Java Code](https://www.maths.stir.ac.uk/~sbr/files/InjectingShortcutsCEC2020_cameraReady.pdf).  
 L'objectif est de simuler l'injection d'instructions de contrôle de flux (`break`, `continue`, `return`, avec ou sans condition `if`) dans trois projets Java (**jCodec**, **spark**, **spatial4j**) et de générer des graphiques en barres montrant les taux de succès de compilation.
